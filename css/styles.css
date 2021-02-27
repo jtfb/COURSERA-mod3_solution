@@ -60,7 +60,7 @@ h2 {
 	position: relative;
 }
 
-#backTop {
+.btn {
 	position: absolute;
 	bottom: 0px;
 	right: 0px;
